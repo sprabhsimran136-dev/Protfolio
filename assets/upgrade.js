@@ -61,7 +61,7 @@
     });
 
     // ----- Photo: nav avatar + hero portrait -----
-    const SRC = 'assets/prabh.jpg';
+    const SRC = 'assets/prabh.png';
     const mark = document.querySelector('.brand-mark');
     if (mark) mark.innerHTML = `<img src="${SRC}" alt="" width="34" height="34">`;
 
